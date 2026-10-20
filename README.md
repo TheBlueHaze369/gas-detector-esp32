@@ -45,3 +45,6 @@ A complete IoT-based gas and smoke detection system built with an ESP32 and an M
    ```cpp
    const char* ssid = "YOUR_WIFI_SSID";
    const char* password = "YOUR_WIFI_PASSWORD";
+
+## Hardware Prototype
+![ESP32 Smart Gas & Smoke Detector Setup](sketch_oct3a/images/setup.jpeg)
